@@ -1,5 +1,7 @@
 # Houses
 ## CS50 Problem
+This problem can be found at OpenCourseWare CS50 
+
 Implement a program to import student data into a database, and then produce class rosters.
 ```
 $ python import.py characters.csv
